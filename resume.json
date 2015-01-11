@@ -1,0 +1,27 @@
+{
+    "basics" : {
+        "name" : "Robert Rees",
+        "website" : "http://rrees.me",
+        "label" : "Programmiing just pays the bills, only arguing gives me thrills",
+        "location" : {
+            "city" : "London"
+        },
+        "profiles" : [{
+            "network" : "twitter",
+            "username" : "rrees",
+            "url" : "https://twitter.com/rrees"
+        }]
+    },
+    "education" : [{
+        "institution" : "University of Bristol",
+        "area" : "Mathematics"
+    }],
+    "interests" : [{
+        "name" : "Technical pencils",
+        "keywords" : ["Stationary"]
+    }],
+    "work" : [{
+        "company" : "The Guardian",
+        "position" : "Senior engineering manager"
+    }]
+}
