@@ -20,8 +20,18 @@
         "name" : "Technical pencils",
         "keywords" : ["Stationary"]
     }],
-    "work" : [{
+    "work" : [
+        {
         "company" : "The Guardian",
         "position" : "Senior engineering manager"
-    }]
+        },
+        {
+        "company": "Wazoku",
+        "position": "CTO/Technical advisor"
+        },
+        {
+            "company": "ThoughtWorks",
+            "position": "Senior consultant"
+        }
+        ]
 }
