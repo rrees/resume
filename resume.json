@@ -6,11 +6,18 @@
         "location" : {
             "city" : "London"
         },
-        "profiles" : [{
+        "profiles" : [
+            {
             "network" : "twitter",
             "username" : "rrees",
             "url" : "https://twitter.com/rrees"
-        }]
+            },
+            {
+                "network": "Github",
+                "username": "rrees",
+                "url": "https://github.com/rrees"
+            }
+        ]
     },
     "education" : [{
         "institution" : "University of Bristol",
