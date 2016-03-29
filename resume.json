@@ -39,6 +39,27 @@
         {
             "company": "ThoughtWorks",
             "position": "Senior consultant"
+        },
+        {
+            "company": "Blueheath",
+            "position": "Team lead"
         }
-        ]
+    ],
+    "skills": [
+        {
+            "name": "Web development",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "London Clojurians",
+            "position": "Co-founder and admin",
+            "summary": "I helped setup the Clojurians group and helped organise and run its first few years of meetings until a larger organising group was formed."
+        }
+    ]
 }
