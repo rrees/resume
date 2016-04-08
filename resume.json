@@ -60,6 +60,16 @@
             "organization": "London Clojurians",
             "position": "Co-founder and admin",
             "summary": "I helped setup the Clojurians group and helped organise and run its first few years of meetings until a larger organising group was formed."
+        },
+        {
+            "organization": "Fullstack conference",
+            "position": "Program committee",
+            "summary": "Reviewed talk applications, made recommendations about selections and provided feedback for speakers"
+        },
+        {
+            "organization": "Clojure Exchange conference",
+            "position": "Program committee",
+            "summary": "Reviewed talk applications, made talk selections, provided feedback for speakers and contributed to the programme schedule"
         }
     ]
 }
