@@ -23,18 +23,30 @@
         "institution" : "University of Bristol",
         "area" : "Mathematics"
     }],
-    "interests" : [{
-        "name" : "Technical pencils",
-        "keywords" : ["Stationary"]
-    }],
-    "work" : [
+    "interests" : [
         {
-        "company" : "The Guardian",
-        "position" : "Senior engineering manager"
+            "name": "Reading non-fiction",
+            "keywords": ["History", "Biography", "Political and Economic theory"]
         },
         {
-        "company": "Wazoku",
-        "position": "CTO/Technical advisor"
+            "name": "Learning to play music",
+            "keywords": ["Guitar", "Ukulele"]
+        },
+        {
+            "name" : "Technical pencils",
+            "keywords" : ["Stationary"]
+        }
+    ],
+    "work" : [
+        {
+            "company" : "The Guardian",
+            "position" : "Senior engineering manager",
+            "summary": "I manage and coach developers as well as contributing to project delivery and writing software."
+        },
+        {
+            "company": "Wazoku",
+            "position": "CTO/Technical advisor",
+            "summary": "I was the first employee with Wazoku and oversaw the creation of a number of the initial iterations of the product including variants of the base product to support competitions and student business pitches. I also hired and formed the initial permanent tech team there. After leaving the firm I remain an investor and have helped out as needed on the technical side of the business."
         },
         {
             "company": "ThoughtWorks",
@@ -42,16 +54,46 @@
         },
         {
             "company": "Blueheath",
-            "position": "Team lead"
+            "position": "Team lead",
+            "summary": "Blueheath was a just-in-time supplier of ambient grocery goods. It allowed small retailers to order on a 24-hour cycle rather than the industry standard of weekly or longer. I joined the company when it was going through a number of changes and ended up being in charge of the tech team there as we negotiated a reverse takeover by industry leader Booker."
+        },
+        {
+            "company": "Carphone Warehouse",
+            "position": "Developer",
+            "summary": "I worked on the European Insurance product that allowed point of sale registration of insurance for new purchases. I had to implement the country-specific requirements and payment options while ensuring back-office compatibility with the original UK insurance flow."
+        },
+        {
+            "company": "Convergys",
+            "position": "Senior developer",
+            "summary": "I implemented billing of SMS and later GPRS services for customers in the UK and Germany. The period saw an explosive growth in use of both services."
         }
     ],
     "skills": [
+        {
+            "name": "Software development",
+            "keywords": [
+                "Python",
+                "Javascript",
+                "Java",
+                "Clojure"
+            ]
+        },
         {
             "name": "Web development",
             "keywords": [
                 "HTML",
                 "CSS",
                 "Javascript"
+            ]
+        },
+        {
+            "name": "Software delivery",
+            "keywords": [
+                "planning",
+                "strategy",
+                "resolving tactical blockers",
+                "alignment with organisational goals",
+                "pace improvement"
             ]
         }
     ],
