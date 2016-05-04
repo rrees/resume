@@ -2,8 +2,8 @@
     "basics" : {
         "name" : "Robert Rees",
         "website" : "http://rrees.me",
-        "label" : "Programming just pays the bills, only arguing gives me thrills",
-        "summary": "",
+        "summary" : "A technical manager with hands-on development experience and all-round project and business experience",
+        "label": "I am a lover of programming and systems thinking",
         "location" : {
             "city" : "London"
         },
@@ -46,7 +46,11 @@
         {
             "company" : "The Guardian",
             "position" : "Senior engineering manager",
-            "summary": "I manage and coach developers as well as contributing to project delivery and writing software."
+            "summary": "I manage and coach developers as well as contributing to project delivery and writing software.",
+            "highlights": [
+                "Created the Guardian's Fellowship programme to create a way for people from non-traditional development backgrounds to join the Guardian's development team",
+                "Built the Guardian's Glass application"
+            ]
         },
         {
             "company": "Wazoku",
