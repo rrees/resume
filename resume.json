@@ -22,7 +22,9 @@
     },
     "education" : [{
         "institution" : "University of Bristol",
-        "area" : "Mathematics"
+        "area" : "Mathematics",
+        "startDate": "1993-09-01",
+        "endDate": "1996-06-01"
     }],
     "interests" : [
         {
