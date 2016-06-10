@@ -2,7 +2,7 @@
     "basics" : {
         "name" : "Robert Rees",
         "website" : "http://rrees.me",
-        "summary" : "A technical manager with hands-on development experience and all-round project and business experience",
+        "summary" : "A technical manager with hands-on development experience and all-round project and business experience. I want to try and do interesting things with nice people.",
         "label": "I am a lover of programming and systems thinking",
         "location" : {
             "city" : "London"
@@ -52,7 +52,12 @@
             "startDate": "2012-05-01",
             "highlights": [
                 "Created the Guardian's Fellowship programme to create a way for people from non-traditional development backgrounds to join the Guardian's development team",
-                "Built the Guardian's Glass application"
+                "Designed and lead the project to move all content to a single CMS",
+                "Built the Guardian's Glass application",
+                "Created new recruitment processes for client-side and general software developers",
+                "Growth-hacking to try and look at qualified opportunities to grow reach on the Web",
+                "Moved the Guardian's legacy products from a two-week release cycle to on-demand delivery",
+                "SEO implementation, monitoring, optimisation and internationalisation"
             ]
         },
         {
@@ -60,13 +65,18 @@
             "position": "Chief Technology Officer",
             "startDate": "2011-05-01",
             "endDate": "2012-05-01",
-            "summary": "I was the first employee with Wazoku and oversaw the creation of a number of the initial iterations of the product including variants of the base product to support competitions and student business pitches. I also hired and formed the initial permanent tech team there. After leaving the firm I remain an investor and have helped out as needed on the technical side of the business."
+            "summary": "I was the first employee with Wazoku and oversaw the creation of a number of the initial iterations of the product including variants of the base product to support competitions and student business pitches. I also hired and formed the initial permanent tech team there. After leaving the firm I remain an investor and have helped out as needed on the technical side of the business.",
+            "highlights": [
+                "Creating the development team from nothing",
+                "Pivoting our product into competitions"
+            ]
         },
         {
             "company": "ThoughtWorks",
             "position": "Senior consultant",
             "startDate": "2008-01-03",
-            "endDate": "2011-04-01"
+            "endDate": "2011-04-01",
+            "summary": "I had the opportunity to work with a number of interesting clients from many sectors. I mostly dealt with delivery transformation and management support for things like takeovers or strategy validation. I did also get to do some fun work prototyping and validating business prospects."
         },
         {
             "company": "Blueheath",
@@ -106,6 +116,22 @@
                 "HTML",
                 "CSS",
                 "Javascript"
+            ]
+        },
+        {
+            "name": "Management",
+            "keywords": [
+                "Coaching",
+                "Staff development",
+                "Mentoring"
+            ]
+        },
+        {
+            "name": "Recruitment",
+            "keywords": [
+                "Developing organic lead pipelines",
+                "Interview processes",
+                "Pair programming tests"
             ]
         },
         {
