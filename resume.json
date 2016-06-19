@@ -68,8 +68,9 @@
             "endDate": "2012-05-01",
             "summary": "I was the first employee with Wazoku and oversaw the creation of a number of the initial iterations of the product including variants of the base product to support competitions and student business pitches. I also hired and formed the initial permanent tech team there. After leaving the firm I remain an investor and have helped out as needed on the technical side of the business.",
             "highlights": [
-                "Creating the development team from nothing",
-                "Pivoting our product into competitions"
+                "First permanent employee",
+                "Created the development team from nothing",
+                "Pivoted our product into competitions"
             ]
         },
         {
@@ -98,7 +99,7 @@
             "position": "Senior developer",
             "startDate": "1997-02-01",
             "endDate": "2004-11-01",
-            "summary": "I implemented billing of SMS and later GPRS services for customers in the UK and Germany. The period saw an explosive growth in use of both services."
+            "summary": "I implemented billing of SMS and later GPRS services for customers in the UK and Germany. This period saw an explosive growth in use of both services and a rapid evolution in the both the underlying hardware of the switching systems used and the associated business and billing model."
         }
     ],
     "skills": [
