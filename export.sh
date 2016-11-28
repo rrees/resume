@@ -1,1 +1,1 @@
-resume export index.html --format html
+resume export build/index.html --format html --theme elegant
