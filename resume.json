@@ -3,7 +3,7 @@
         "name" : "Robert Rees",
         "website" : "http://rrees.me",
         "summary" : "A technical manager with hands-on development experience and all-round project and business experience. I want to try and do interesting things with nice people.",
-        "label": "I am a lover of programming and systems thinking",
+        "label": "I like programming and systems thinking",
         "picture": "https://secure.gravatar.com/avatar/cc171a7166f9c65ce83703fe9cbc9448",
         "location" : {
             "city" : "London"
@@ -47,12 +47,25 @@
     ],
     "work" : [
         {
+            "company" : "Government Digital Service",
+            "position" : "Head of the technical architecture community",
+            "summary" : "I am the community lead for technical architecture within both GDS and government. I am responsible for building a lively and supportive community for architects that allows them to access the wider expertise available in their community and also contribute what they have learnt in their work.",
+            "startDate": "2016-08-01",
+            "highlights": [
+                "Defined the role and career progression for technical architects in government and aligned it with the equivalent definition for software engineers",
+                "Led recruiting for technical architects and leaders in GDS and other parts of government. Revamping the process and developing a better leads pipeline",
+                "Organised a government-wide conference for technologists"
+            ]
+        },
+        {
             "company" : "The Guardian",
             "position" : "Senior engineering manager",
-            "summary": "I manage and coach developers as well as contributing to project delivery and writing software. I have worked on a number of specific projects at the Guardian but currently I the development manager for the Editorial Tools team. We produce and maintain all the digital content management and publication tools for journalists.",
+            "summary": "I managed and coached developers as well as contributing to project delivery and writing software. I worked on a number of specific projects at the Guardian but in my last role I was the development manager for the Editorial Tools team, which build and maintained the digital content management and publication tools for journalists.",
             "startDate": "2012-05-01",
+            "endDate": "2016-06-30",
             "highlights": [
                 "Created the Guardian's Fellowship programme to create a way for people from non-traditional development backgrounds to join the Guardian's development team",
+                "Created a more autonomous working environment by empowering developers to understand the business problems and user needs themselves and enabling them to deliver solutions independently",
                 "Designed and lead the project to move all content to a single CMS",
                 "Built the Guardian's Glass application",
                 "Created new recruitment processes for client-side and general software developers",
@@ -78,7 +91,13 @@
             "position": "Senior consultant",
             "startDate": "2008-01-03",
             "endDate": "2011-04-01",
-            "summary": "I had the opportunity to work with a number of interesting clients from many sectors. I mostly dealt with delivery transformation and management support for things like takeovers or strategy validation. I did also get to do some fun work prototyping and validating business prospects."
+            "summary": "I had the opportunity to work with a number of interesting clients from many sectors. I mostly dealt with delivery transformation and management support for things like takeovers or strategy validation. I did also get to do some fun work prototyping and validating business prospects.",
+            "highlights": [
+                "Spent over a year with the BBC on the redesign and redevelopment of the news site",
+                "Supported BioMed Central in their switch to an agile delivery process",
+                "Consulted with Symbian on how to change their developer tooling and relationship management as a result of the iPhone",
+                "Created rapid prototypes for clients over legacy datasets using techniques like daily iterations and intercepting data transformation"
+            ]
         },
         {
             "company": "Blueheath",
