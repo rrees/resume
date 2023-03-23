@@ -10,14 +10,19 @@
         },
         "profiles" : [
             {
-            "network" : "twitter",
+            "network" : "Mastodon",
             "username" : "rrees",
-            "url" : "https://twitter.com/rrees"
+            "url" : "https://mastodon.social/rrees"
             },
             {
                 "network": "Github",
                 "username": "rrees",
                 "url": "https://github.com/rrees"
+            },
+            {
+                "network": "DevTo",
+                "username": "rrees",
+                "url": "https://dev.to/rrees/"
             }
         ]
     },
@@ -47,10 +52,29 @@
     ],
     "work" : [
         {
+            "company": "We Got POP",
+            "position": "Senior Vice President of Technology",
+            "startDate": "2017-05-06",
+            "endDate": "2022-10-31",
+            "summary": "I joined We Got POP when it was a successful but still relatively small business and was part of its journey through a Series A fundraise to acquisition and ultimately a realisation of a business that dominates its niche in both the US and the UK and has changed the way that background casting is done in the industry.",
+            "highlights": [
+                "Tripling the technology group headcount to around 30 people in various roles and creating a great team who were able to deliver our software vision",
+                "Achieving above-average gender parity across all seniorities",
+                "Meeting agressive hiring targets in support of our delivery goals",
+                "Launching our Casting product into the US and Ireland",
+                "Completing a multi-year technology replatforming and migration for Central Casting allow expansion into new territories",
+                "Maturing our infosec processes and capabilities to allow us to acquire the largest of enterprise customers like Sony and Disney",
+                "Developing our data protection and handling policies",
+                "Supporting our platform growth from expanded from six figure monthly transaction volumes to 10 figures over three years. Going from a UK only business to one operating across Europe and coast to coast in the US.",
+                "Launching an entirely new product line in scripted drama going from zero to a substantial market share in just a few years"
+            ]
+        },
+        {
             "company" : "Government Digital Service",
             "position" : "Head of the technical architecture community",
-            "summary" : "I am the community lead for technical architecture within both GDS and government. I am responsible for building a lively and supportive community for architects that allows them to access the wider expertise available in their community and also contribute what they have learnt in their work.",
+            "summary" : "I was the community lead for technical architecture discipline within both GDS and across government working as part of the Chief Architect's office.",
             "startDate": "2016-08-01",
+            "endDate": "2017-05-01",
             "highlights": [
                 "Defined the role and career progression for technical architects in government and aligned it with the equivalent definition for software engineers",
                 "Led recruiting for technical architects and leaders in GDS and other parts of government. Revamping the process and developing a better leads pipeline",
@@ -87,6 +111,7 @@
             "highlights": [
                 "First permanent employee",
                 "Created the development team from nothing",
+                "Built the initial idea management technology platform",
                 "Pivoted our product into competitions"
             ]
         },
@@ -130,9 +155,9 @@
             "name": "Software development",
             "keywords": [
                 "Python",
-                "Javascript",
-                "Java",
-                "Clojure"
+                "Javascript/Typescript",
+                "Clojure",
+                "Go"
             ]
         },
         {
@@ -156,6 +181,7 @@
             "keywords": [
                 "Developing organic lead pipelines",
                 "Interview processes",
+                "Assessment criteria",
                 "Pair programming tests"
             ]
         },
@@ -175,17 +201,23 @@
         {
             "organization": "London Clojurians",
             "position": "Co-founder and admin",
-            "summary": "I helped setup the Clojurians group and helped organise and run its first few years of meetings until a larger organising group was formed."
+            "summary": "I helped setup the Clojurians group and helped organise and run its first few years of meetings until a larger organising group was formed.",
+            "startDate": "2009-10-01",
+            "endDate": "2013-01-01"
         },
         {
             "organization": "Fullstack conference",
             "position": "Program committee",
-            "summary": "Reviewed talk applications, made recommendations about selections and provided feedback for speakers"
+            "summary": "Reviewed talk applications, made recommendations about selections and provided feedback for speakers",
+            "startDate": "2015-03-01",
+            "endDate": "2019-11-01"
         },
         {
             "organization": "Clojure Exchange conference",
             "position": "Program committee",
-            "summary": "Reviewed talk applications, made talk selections, provided feedback for speakers and contributed to the programme schedule"
+            "summary": "Reviewed talk applications, made talk selections, provided feedback for speakers and contributed to the programme schedule",
+            "startDate": "2012-05-01",
+            "endDate": "2019-11-01"
         }
     ]
 }
