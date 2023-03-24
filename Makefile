@@ -1,5 +1,5 @@
 serve:
-	npx resume serve --theme elegant
+	npx resume serve --theme elegant --dir build
 
 validate:
 	npx resume validate
