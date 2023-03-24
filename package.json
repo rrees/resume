@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
     "netlify-cli": "^13.2.1",
     "resume-cli": "^3.0.8"
   }
