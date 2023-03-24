@@ -10,9 +10,9 @@
         },
         "profiles" : [
             {
-            "network" : "Mastodon",
-            "username" : "rrees",
-            "url" : "https://mastodon.social/rrees"
+                "network" : "Mastodon",
+                "username" : "rrees",
+                "url" : "https://mastodon.social/rrees"
             },
             {
                 "network": "Github",
@@ -23,6 +23,11 @@
                 "network": "DevTo",
                 "username": "rrees",
                 "url": "https://dev.to/rrees/"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "therobertrees",
+                "url": "https://www.linkedin.com/in/therobertrees/"
             }
         ]
     },
@@ -38,12 +43,12 @@
             "keywords": ["History", "Biography", "Political and Economic theory"]
         },
         {
-            "name": "Learning to play music",
-            "keywords": ["Guitar", "Ukulele"]
-        },
-        {
             "name": "Karaoke",
             "keywords": ["Pub singer"]
+        },
+        {
+            "name": "Gaming",
+            "keywords": ["Boardgames", "Computer games", "Gamebooks"]
         },
         {
             "name" : "Technical pencils",
@@ -188,12 +193,13 @@
         {
             "name": "Software delivery",
             "keywords": [
-                "planning",
-                "strategy",
-                "resolving tactical blockers",
-                "alignment with organisational goals",
-                "pace improvement",
-                "incremental and continuous delivery"
+                "Planning and program management",
+                "Strategy",
+                "Resolving technical blockers",
+                "Aligning delivery with organisational objectives",
+                "Pace improvement",
+                "Build automation",
+                "Incremental and continuous delivery"
             ]
         }
     ],
