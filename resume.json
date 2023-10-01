@@ -57,10 +57,25 @@
     ],
     "work" : [
         {
-            "company": "We Got POP",
+            "name": "loveholidays",
+            "url": "https://www.loveholidays.com/",
+            "position": "Lead Developer",
+            "startDate": "2023-06-06",
+            "summary": "I am the technical lead of the Customer Experience Technology team at *loveholidays* which supports the technology underpinnings of our Customer Experience team. This includes responsibility for managing external suppliers and integrating different tools into a cohesive technical solution. My team also has responsibility for the Conversation AI solutions that we use to manage initial customer contact and ideally try to resolve problems through scalable technical solutions."
+        },
+        {
+            "name": "Counting Up",
+            "url": "https://countingup.com/",
+            "position": "Engineering Manager",
+            "startDate": "2022-10-31",
+            "endDate": "2023-01-31",
+            "summary": "I joined *Counting Up* to help the company explore a management structure that could help scale up the company for an anticipated funding round. While there I worked in a team that was creating a new web portal for customers to have a large screen experience for accessing their accounts and that made use of the existing app-based authentication process."
+        },
+        {
+            "name": "We Got POP",
             "position": "Senior Vice President of Technology",
             "startDate": "2017-05-06",
-            "endDate": "2022-10-31",
+            "endDate": "2022-10-21",
             "summary": "I joined We Got POP when it was a successful but still relatively small business and was part of its journey through a Series A fundraise to acquisition and ultimately a realisation of a business that dominates its niche in both the US and the UK and has changed the way that background casting is done in the industry.",
             "highlights": [
                 "Tripling the technology group headcount to around 30 people in various roles and creating a great team who were able to deliver our software vision",
@@ -75,7 +90,8 @@
             ]
         },
         {
-            "company" : "Government Digital Service",
+            "name" : "Government Digital Service",
+            "url": "https://www.gov.uk/government/organisations/government-digital-service",
             "position" : "Head of the technical architecture community",
             "summary" : "I was the community lead for technical architecture discipline within both GDS and across government working as part of the Chief Architect's office.",
             "startDate": "2016-08-01",
@@ -91,7 +107,8 @@
             ]
         },
         {
-            "company" : "The Guardian",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/",
             "position" : "Senior engineering manager",
             "summary": "I managed and coached developers as well as contributing to project delivery and writing software. I worked on a number of specific projects at the Guardian but in my last role I was the development manager for the Editorial Tools team, which build and maintained the digital content management and publication tools for journalists.",
             "startDate": "2012-05-01",
@@ -108,7 +125,8 @@
             ]
         },
         {
-            "company": "Wazoku",
+            "name": "Wazoku",
+            "url": "https://www.wazoku.com/",
             "position": "Chief Technology Officer",
             "startDate": "2011-05-01",
             "endDate": "2012-05-01",
@@ -121,7 +139,8 @@
             ]
         },
         {
-            "company": "ThoughtWorks",
+            "name": "ThoughtWorks",
+            "url": "https://www.thoughtworks.com/",
             "position": "Senior consultant",
             "startDate": "2008-01-03",
             "endDate": "2011-04-01",
@@ -134,21 +153,21 @@
             ]
         },
         {
-            "company": "Blueheath",
+            "name": "Blueheath",
             "position": "Team lead",
             "startDate": "2006-09-24",
             "endDate": "2007-12-12",
             "summary": "Blueheath was a just-in-time supplier of ambient grocery goods. It allowed small retailers to order on a 24-hour cycle rather than the industry standard of weekly or longer. I joined the company when it was going through a number of changes and ended up being in charge of the tech team there as we negotiated a reverse takeover by industry leader Booker."
         },
         {
-            "company": "Carphone Warehouse",
+            "name": "Carphone Warehouse",
             "position": "Developer",
             "startDate": "2004-12-01",
             "endDate": "2006-09-01",
             "summary": "I worked on the European Insurance product that allowed point of sale registration of insurance for new purchases. I had to implement the country-specific requirements and payment options while ensuring back-office compatibility with the original UK insurance flow."
         },
         {
-            "company": "Convergys",
+            "name": "Convergys",
             "position": "Senior developer",
             "startDate": "1997-02-01",
             "endDate": "2004-11-01",
