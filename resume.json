@@ -2,7 +2,7 @@
     "basics" : {
         "name" : "Robert Rees",
         "website" : "http://rrees.me",
-        "summary" : "I am an experienced technology leader and manager with hands-on development experience and strong record of cross-functional delivery in support of organisational excellence",
+        "summary" : "I am an experienced technology leader with skills across development, product management, operational delivery and people management. I'm looking for a role that can provide the chance to use the cross-functional skills in a mission-orientated company.",
         "label": "I like programming and systems thinking",
         "picture": "https://secure.gravatar.com/avatar/cc171a7166f9c65ce83703fe9cbc9448",
         "location" : {
@@ -61,7 +61,11 @@
             "url": "https://www.loveholidays.com/",
             "position": "Lead Developer",
             "startDate": "2023-06-06",
-            "summary": "I am the technical lead of the Customer Experience Technology team at *loveholidays* which supports the technology underpinnings of our Customer Experience team. This includes responsibility for managing external suppliers and integrating different tools into a cohesive technical solution. My team also has responsibility for the Conversation AI solutions that we use to manage initial customer contact and ideally try to resolve problems through scalable technical solutions."
+            "summary": "I am the technical lead of the Customer Experience Technology team at *loveholidays* which supports the technology underpinnings of our Customer Experience team. This includes responsibility for managing external suppliers and integrating different tools into a cohesive technical solution. My team also has responsibility for the Conversation AI solutions that we use to manage initial customer contact and ideally try to resolve problems through scalable technical solutions.",
+            "highlights": [
+                "Completing the delivery of new telephony service to the contact centre and sales teams including a new virtual agent to manage credit card authorisations",
+                "Delivering automation of new work processes in the contact centre delivering substantial reductions in the time spent by customers (around five minutes of face time) and halving handling times for agents handling supplier interactions"
+            ]
         },
         {
             "name": "Counting Up",
@@ -79,7 +83,7 @@
             "summary": "I joined We Got POP when it was a successful but still relatively small business and was part of its journey through a Series A fundraise to acquisition and ultimately a realisation of a business that dominates its niche in both the US and the UK and has changed the way that background casting is done in the industry.",
             "highlights": [
                 "Tripling the technology group headcount to around 30 people in various roles and creating a great team who were able to deliver our software vision",
-                "Achieving above-average gender parity across all seniorities",
+                "Achieving above-average gender balance in the development team across all seniorities",
                 "Meeting agressive hiring targets in support of our delivery goals",
                 "Launching our Casting product into the US and Ireland",
                 "Completing a multi-year technology replatforming and migration for Central Casting allow expansion into new territories",
