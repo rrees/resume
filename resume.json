@@ -57,11 +57,18 @@
     ],
     "work" : [
         {
-            "name": "loveholidays",
+            "name": "Pledge",
+            "position": "Senior Fullstack Developer",
+            "url": "https://www.pledge.io/",
+            "startDate": "2024-07-29"
+        },
+        {
+            "name": "Love Holidays",
             "url": "https://www.loveholidays.com/",
             "position": "Lead Developer",
             "startDate": "2023-06-06",
-            "summary": "I am the technical lead of the Customer Experience Technology team at *loveholidays* which supports the technology underpinnings of our Customer Experience team. This includes responsibility for managing external suppliers and integrating different tools into a cohesive technical solution. My team also has responsibility for the Conversation AI solutions that we use to manage initial customer contact and ideally try to resolve problems through scalable technical solutions.",
+            "endDate": "2024-06-07",
+            "summary": "I was the technical lead of the Customer Experience Technology team which created and maintained the technology platform for the Customer Experience team. This included responsibility for managing external suppliers and integrating different tools into a cohesive technical solution. My team also provided data feeds and webhooks for actions to the Conversational AI team. Conversational AI was used to manage initial customer contact and would ideally resolve problems for customers without having to wait for customer service representatives to become available.",
             "highlights": [
                 "Completing the delivery of new telephony service to the contact centre and sales teams including a new virtual agent to manage credit card authorisations",
                 "Delivering automation of new work processes in the contact centre delivering substantial reductions in the time spent by customers (around five minutes of face time) and halving handling times for agents handling supplier interactions"
