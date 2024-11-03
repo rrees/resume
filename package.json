@@ -1,7 +1,7 @@
 {
   "devDependencies": {
+    "browser-sync": "^3.0.3",
     "jsonresume-theme-elegant": "^1.16.1",
-    "netlify-cli": "^13.2.1",
-    "resume-cli": "^3.0.8"
+    "resumed": "^4.0.0"
   }
 }

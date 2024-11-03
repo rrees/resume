@@ -3,7 +3,7 @@
         "name" : "Robert Rees",
         "website" : "http://rrees.me",
         "summary" : "I am an experienced technology leader with skills across development, product management, operational delivery and people management. I'm looking for a role that can provide the chance to use the cross-functional skills in a mission-orientated company.",
-        "label": "I like programming and systems thinking",
+        "label": "I like programming, working with people and thinking in systems",
         "picture": "https://secure.gravatar.com/avatar/cc171a7166f9c65ce83703fe9cbc9448",
         "location" : {
             "city" : "London"
@@ -43,12 +43,12 @@
             "keywords": ["History", "Biography", "Political and Economic theory"]
         },
         {
-            "name": "Karaoke",
-            "keywords": ["Pub singer"]
-        },
-        {
             "name": "Gaming",
             "keywords": ["Boardgames", "Computer games", "Gamebooks"]
+        },
+        {
+            "name": "Karaoke",
+            "keywords": ["Pub singer"]
         },
         {
             "name" : "Technical pencils",
@@ -60,7 +60,8 @@
             "name": "Pledge",
             "position": "Senior Fullstack Developer",
             "url": "https://www.pledge.io/",
-            "startDate": "2024-07-29"
+            "startDate": "2024-07-29",
+            "summary": "I work as a product developer helping Pledge to bring their industry- leading logistics emissions calculator to a new audience who can bring the emission reports from different transportation partners into a single integration view."
         },
         {
             "name": "Love Holidays",
@@ -217,6 +218,7 @@
                 "Developing organic lead pipelines",
                 "Interview processes",
                 "Assessment criteria",
+                "Inclusive hiring programs",
                 "Pair programming tests"
             ]
         },
